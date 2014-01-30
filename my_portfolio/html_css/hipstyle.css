@@ -1,0 +1,31 @@
+h1 {
+	color: blue;
+	font-family: comic sans ms
+}
+
+p {
+	font-family: comic sans ms;
+	color:green;
+}
+
+em {
+	color:red;
+}
+
+u {
+	color:yellow;
+	background-color: red
+ }
+
+ .first {
+ 	background-color: #FF0000
+ }
+
+ .second {
+ 	color: #000000;
+ 	background-color: #cc99ff;
+ }
+
+ .third {
+ 	background-color: #FFFF99;
+ }

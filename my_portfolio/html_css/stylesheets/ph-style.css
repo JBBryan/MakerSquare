@@ -1,0 +1,50 @@
+*{
+	font-family: Lucida Sans Unicode;
+}
+
+h1 {color: #4d4d4c;
+	background-color: #c0c0c0;
+	padding-top: 10px;
+	padding-bottom:10px;
+	padding-left: 5px;
+
+
+}
+
+p {
+	background-color: #1975D1;
+	margin:0px 0px 0px 0px;
+	color:#DFDFE0;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 2px;
+	
+
+}
+#1975D1
+#3083D6
+#4791DA
+#5E9EDF
+#75ACE3
+#8CBAE8
+
+.highest {background-color: black}
+#thirteen {background-color: #3083D6}
+#twelve	{background-color: #4791DA}
+#eleven {background-color: #5E9EDF}
+#ten {background-color: #75ACE3}
+#nine {background-color: #8CBAE8}
+#eight {background-color: #A3C8ED}
+#seven {background-color: #6CB591}
+#six {background-color: #FFB2B2}
+#five {background-color: #FFA3A3}
+#four {background-color: #FF9494}
+#three {background-color: #FF8585}
+#two {background-color: #FF7575}
+#one {background-color: #ff6666}
+
+html {
+	background-color: grey;
+}
+
+span { font-size: 30px}

@@ -1,0 +1,20 @@
+p {
+	font-family: Open Sans, Georgia, comic sans ms
+}
+
+h1 {
+	font-family: Happy Monkey, Arial, comic sans ms;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: Happy Monkey, Arial, comic sans ms
+}
+
+#tagline {
+	font-family: Condiment, Courier New, comic sans ms;
+	font-style: italic;
+}
+
+a {font-size: 10px;}
+a:hover {color: red;}
